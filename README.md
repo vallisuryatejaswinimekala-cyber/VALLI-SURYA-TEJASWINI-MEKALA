@@ -19,6 +19,29 @@ Dedicated to the intersection of digital investigation and cybersecurity. Curren
 | **Network/Sec** | `Wireshark`, `Nmap`, `Burp Suite` |
 | **Scripting** | `Python` (Forensic Automation) |
 
+### Experience
+- **Internship Experience**
+
+**Cyber Forensics Intern**
+Duration: January 2025 – April 2025
+Responsibilities and Experience:
+Assisted in cybercrime investigations involving computers, mobile devices, and digital storage media
+Performed forensic imaging and analysis using FTK Imager and Autopsy
+Conducted mobile device forensic analysis using Cellebrite UFED and Oxygen Forensics
+Maintained strict chain-of-custody procedures and forensic documentation
+Supported forensic reporting and investigation workflows
+
+### Education 
+**Integrated BSc–MSc in Forensic Sciences (Cyber Forensics)**
+National Forensic Sciences University (NFSU), Goa
+GPA: 8.82
+
+**Higher Secondary Education – BiPC**
+Ratnam Junior College
+CGPA: 9.8
+
+
+
 ### 🚀 Featured Work
 - **AI Risk Assessment:** Analyzed adversarial attacks and data poisoning in AI systems.
 - **Python Port Scanner:** Built a socket-based tool for network reconnaissance.
